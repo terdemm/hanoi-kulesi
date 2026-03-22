@@ -123,10 +123,10 @@ const Game = () => {
       </footer>
 
       <div className="fixed bottom-4 left-6 md:right-6 md:left-auto text-sm font-semibold text-gray-400 opacity-60 cursor-default pointer-events-none select-none z-50">
-        hanoi.tunaerdem.com.tr
+        hanoi.tunaerdem.site
       </div>
       <div className="fixed top-4 right-6 text-sm font-semibold text-gray-400 opacity-60 cursor-default pointer-events-none select-none z-50 hidden md:block">
-        hanoi.tunaerdem.com.tr
+        hanoi.tunaerdem.site
       </div>
     </div>
   );
